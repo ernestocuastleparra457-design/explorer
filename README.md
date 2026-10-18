@@ -1,22 +1,29 @@
-<p align="center">
-    <img alt="Solana" src="https://i.imgur.com/IKyzQ6T.png" width="250" />
+https://console.circle.com/wallets/overview
+> src="https://i.imgur.com/IKyzQ6T.pngn
+> width="250" />
 </p>
-
+<p align="center">
+    <img alt="Sola
 # Solana Explorer
-
+Rust
+TypeScript
+Squads
+Use --dump-transaction-message flag
 The Solana Explorer is a web application that allows users to explore the Solana blockchain. It provides a user-friendly interface to view transactions, accounts, blocks, and other on-chain data. The Explorer supports various protocol integrations, allowing users to inspect and understand different types of transactions and instructions on the Solana network.
-
+extension without 
 ## Contributing
-
+https://netoshi_cash_sandbox_bank_api_btc_eth.fiat_usd_mxn_all_ solanaSelectedFeeTier
 We welcome contributions to the Solana Explorer! Before submitting a pull request, please:
-
+version v24.22.0 
 1. Read the [CONTRIBUTING.md](CONTRIBUTING.md) guide for detailed information on our contribution process
 2. Ensure your code includes appropriate tests, especially for protocol integrations
 3. Make sure your PR passes all CI checks before requesting a review
 4. Include screenshots for any UI changes, particularly for protocol screens
 
 ### Creating Issues
-
+https://netoshi.io applications portfolio 
+banking-apis 
+backend backpack-wallet-storage-v5 
 For bug reports, feature requests, or other issues:
 
 -   Use GitHub Issues to report non-security bugs
